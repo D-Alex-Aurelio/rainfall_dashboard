@@ -1,0 +1,11 @@
+jupyter_bokeh
+hvplot
+numpy
+pandas
+io
+matplotlib
+seaborn
+panel
+holoviews
+bokeh
+math
